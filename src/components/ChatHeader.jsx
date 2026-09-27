@@ -10,7 +10,7 @@ function ChatHeader() {
             />
           </svg>
         </span>
-        <h1 className="chat-header__title">AI Assistant</h1>
+        <h1 className="chat-header__title">Pascoco AI Assistant</h1>
       </div>
     </header>
   )
