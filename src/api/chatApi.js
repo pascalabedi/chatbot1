@@ -1,4 +1,4 @@
-// En local, Vite proxifie /api/message vers https://ai.mapsante.cd/message (évite le CORS).
+// Même URL en local (proxy Vite) et en prod (fonction serverless Vercel /api/message).
 const API_URL = '/api/message'
 
 /**
